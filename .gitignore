@@ -1,0 +1,51 @@
+# Raw public imagery stays outside version control.
+/data/
+*.tif
+*.tiff
+*.TIF
+*.TIFF
+*.zip
+# Reproductions never overwrite the recorded evidence.
+/runs/
+/.venv/
+/venv/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.runtime/
+mplconfig/
+# Local credentials, machine configuration and unscreened logs.
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+*service-account*.json
+.aws/
+.azure/
+.codex/
+.library*/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+# Release hygiene: generated artifacts and additional local secrets.
+/results/
+/reports/
+*.docx
+*.pdf
+*.pptx
+*.part
+.venv*/
+.ipython/
+.jupyter/
+.ssh/
+.netrc
+.pypirc
+*.p12
+*.pfx
+*.sqlite*
+# Local authentication files are never part of a release.
+.git-credentials
+id_rsa*
+id_ed25519*

@@ -1,0 +1,64 @@
+{
+  "selected": {
+    "size": 3,
+    "threshold_db": -22.0,
+    "macro_iou": 0.30525337391305135,
+    "aggregate": {
+      "tp": 1532593,
+      "fp": 707850,
+      "fn": 698613,
+      "tn": 17335098,
+      "iou": 0.5214575700497031,
+      "precision": 0.6840580188828728,
+      "recall": 0.6868899599588743,
+      "f1": 0.6854710644775562,
+      "scored_pixels": 20274154,
+      "macro_iou": 0.30525337391305135,
+      "defined_iou_chips": 86,
+      "chips": 89
+    }
+  },
+  "no_smoothing_baseline": {
+    "size": 1,
+    "threshold_db": -22.0,
+    "macro_iou": 0.28966492147866296,
+    "aggregate": {
+      "tp": 1586809,
+      "fp": 1078709,
+      "fn": 644397,
+      "tn": 16964239,
+      "iou": 0.47941080057947105,
+      "precision": 0.5953098046983738,
+      "recall": 0.7111889265267304,
+      "f1": 0.6481104509872314,
+      "scored_pixels": 20274154,
+      "macro_iou": 0.28966492147866296,
+      "defined_iou_chips": 86,
+      "chips": 89
+    }
+  },
+  "frozen_utc": "2026-11-10T23:38:09.528747+00:00",
+  "frozen_before_this_run_test_scoring": true,
+  "prior_test_inspection_disclosed": true,
+  "validation_chips": 89,
+  "raw_threshold_policy": "strict_db_v1",
+  "source_sha256": {
+    "water_mapping/core.py": "9acb642641ddbca8609a5ce3a39e97859a2f9b5840b89ee87736a8b37c80d6c8",
+    "water_mapping/data.py": "0d6814914fa87312db7cd7b89761125fc758b3675476f198581efb5293cdf4c1",
+    "water_mapping/experiment.py": "7a5c4bbe2cbe5c4eb93c8e30d140aae164b8f43edfebb7b26fd2d1adbd7a3db8"
+  },
+  "release_source_sha256": {
+    "water_mapping/core.py": "9acb642641ddbca8609a5ce3a39e97859a2f9b5840b89ee87736a8b37c80d6c8",
+    "water_mapping/data.py": "c34aa28540b0da1789a7d5c1ad9829152e9ba164c5fe943042d2ac65cd719ec6",
+    "water_mapping/experiment.py": "b1050c951d519fb54753d934ee0b28db87e1ad54a7bfa4231805c7318779ed99",
+    "water_mapping/otsu.py": "4f0bdfe34daf2e108c3295df9e675ed92f28bca8126387310de591e5c494887f"
+  },
+  "release_verification": {
+    "date": "2026-11-11",
+    "reference_commit": "d61492e6bcb85267cee356c43c82da973ab6256c",
+    "validation_candidates_identical": 15,
+    "evaluation_rows_identical": 892,
+    "whole_tiled_chips_identical": 446,
+    "note": "Release layout and verified-download handling changed; all validation candidates, per-chip counts, prediction fingerprints and CPU equivalence records match the existing full-run evidence exactly. Original source_sha256 and freeze timestamp above are retained, not rewritten."
+  }
+}

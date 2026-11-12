@@ -1,0 +1,947 @@
+[
+  {
+    "split": "test",
+    "image": "Ghana_313799_S1Hand.tif",
+    "name": "Ghana_313799_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_313799_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_313799_S1OtsuLabelHand.tif",
+    "bytes": 1141,
+    "sha256": "d4c2351d5d7508868ab57c71877ac7bfb5510bf5a0ef018a059b72b627ec5689"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_1078550_S1Hand.tif",
+    "name": "Ghana_1078550_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_1078550_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_1078550_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "6af19035acf34e406538f23fba0c43d5249354d257ad6d59c67b0b5aff8fcbc6"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_97059_S1Hand.tif",
+    "name": "Ghana_97059_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_97059_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_97059_S1OtsuLabelHand.tif",
+    "bytes": 1154,
+    "sha256": "51e3f58c4f77373542957a15a990b13c4cc1e9dc62f379f932d9174a91b5a450"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_359826_S1Hand.tif",
+    "name": "Ghana_359826_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_359826_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_359826_S1OtsuLabelHand.tif",
+    "bytes": 1388,
+    "sha256": "ed0c22b2be9282d4434fb3543a670017912f8d87973ed20fa6101e3c39ec146e"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_319168_S1Hand.tif",
+    "name": "Ghana_319168_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_319168_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_319168_S1OtsuLabelHand.tif",
+    "bytes": 4484,
+    "sha256": "04261e728d1c7a8dd7bda975f473649ef2475bb09da800895ed147605cec35f9"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_866994_S1Hand.tif",
+    "name": "Ghana_866994_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_866994_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_866994_S1OtsuLabelHand.tif",
+    "bytes": 4583,
+    "sha256": "391185e1473dd8fcd68bbf2a4d5de11618f3795f17da53a37cb9de17de0e7689"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_406026_S1Hand.tif",
+    "name": "Ghana_406026_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_406026_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_406026_S1OtsuLabelHand.tif",
+    "bytes": 1491,
+    "sha256": "e042440ad313c211aedc3cccbb7b90416ad57ba06f40a340fa283674cd3565c0"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_53713_S1Hand.tif",
+    "name": "Ghana_53713_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_53713_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_53713_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "f7b1b041e01a2f6570b424797343c2558dd8e6eec1bc726f30b5f8663be23fc5"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_83483_S1Hand.tif",
+    "name": "Ghana_83483_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_83483_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_83483_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "4cf3a540f19ba9d220af8b882387e5170b9efe477796ec8da9e60b53cdacaa64"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_167233_S1Hand.tif",
+    "name": "Ghana_167233_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_167233_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_167233_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "01720237ddca58f3b60f1dcf718d2901f86197a0c8cbc6ba5f07524a087bdff6"
+  },
+  {
+    "split": "test",
+    "image": "Ghana_141271_S1Hand.tif",
+    "name": "Ghana_141271_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Ghana_141271_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Ghana_141271_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "8401f92435f5ef7e60fd157ffa502ea799f3827a7b1fd91fa303b233312fbc24"
+  },
+  {
+    "split": "test",
+    "image": "India_900498_S1Hand.tif",
+    "name": "India_900498_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_900498_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_900498_S1OtsuLabelHand.tif",
+    "bytes": 6011,
+    "sha256": "e363b74d3ab0f306e9393032b82efb925ce1e45f07744d0b5c8352d84c3e3c92"
+  },
+  {
+    "split": "test",
+    "image": "India_591317_S1Hand.tif",
+    "name": "India_591317_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_591317_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_591317_S1OtsuLabelHand.tif",
+    "bytes": 3293,
+    "sha256": "391e11d293638ab724c52163083eba126bb3ea0970b3c22d757b9c37c22177e1"
+  },
+  {
+    "split": "test",
+    "image": "India_747992_S1Hand.tif",
+    "name": "India_747992_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_747992_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_747992_S1OtsuLabelHand.tif",
+    "bytes": 8180,
+    "sha256": "75ad79e46e6d7f58b20763e304325f825200cac97908556f72dd82e2ba2dfe6e"
+  },
+  {
+    "split": "test",
+    "image": "India_79637_S1Hand.tif",
+    "name": "India_79637_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_79637_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_79637_S1OtsuLabelHand.tif",
+    "bytes": 1458,
+    "sha256": "5b761d017bbd936c27f8c05955b43035e8c499fca64c45ec0fa2c7f77cd77998"
+  },
+  {
+    "split": "test",
+    "image": "India_952728_S1Hand.tif",
+    "name": "India_952728_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_952728_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_952728_S1OtsuLabelHand.tif",
+    "bytes": 1508,
+    "sha256": "92ab68a0af54cf96ca35c14fa94975bb62a65c09b9b03b39382db6d8edbfced6"
+  },
+  {
+    "split": "test",
+    "image": "India_828067_S1Hand.tif",
+    "name": "India_828067_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_828067_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_828067_S1OtsuLabelHand.tif",
+    "bytes": 1640,
+    "sha256": "cf06acc9b50f4e7c48a6e0a9cc548b438ca222b33bbab76449f99dbb6b25a8b3"
+  },
+  {
+    "split": "test",
+    "image": "India_570384_S1Hand.tif",
+    "name": "India_570384_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_570384_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_570384_S1OtsuLabelHand.tif",
+    "bytes": 2555,
+    "sha256": "3b821359dbaf87eabc51d041a1ebe1c03419bf2b0029b2d1c72b654078829cd4"
+  },
+  {
+    "split": "test",
+    "image": "India_44475_S1Hand.tif",
+    "name": "India_44475_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_44475_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_44475_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "d0a5840ed59360ccf0ef94e1f925981300e97a77b4fe1aa6edfd94e7435fb045"
+  },
+  {
+    "split": "test",
+    "image": "India_80221_S1Hand.tif",
+    "name": "India_80221_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_80221_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_80221_S1OtsuLabelHand.tif",
+    "bytes": 2861,
+    "sha256": "df2e1a85f2cdaf39868b60f63c8e8e23a4b19515ab1901b7d78f3bd7778a1e6a"
+  },
+  {
+    "split": "test",
+    "image": "India_1018327_S1Hand.tif",
+    "name": "India_1018327_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_1018327_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_1018327_S1OtsuLabelHand.tif",
+    "bytes": 3726,
+    "sha256": "65b4d519e11bb2d1038c455f0305f8133020d957cfe9816d10a16065a76b6ab6"
+  },
+  {
+    "split": "test",
+    "image": "India_592446_S1Hand.tif",
+    "name": "India_592446_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_592446_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_592446_S1OtsuLabelHand.tif",
+    "bytes": 2199,
+    "sha256": "760b19b6320140e9dc2c1218c82796af0a9eb5e8945240c05ea331ccfa3b31c0"
+  },
+  {
+    "split": "test",
+    "image": "India_772630_S1Hand.tif",
+    "name": "India_772630_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_772630_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_772630_S1OtsuLabelHand.tif",
+    "bytes": 1707,
+    "sha256": "6da73f90f1b60c98227b294399b6a25b649d47776ac1a10dda4418c6f2745a91"
+  },
+  {
+    "split": "test",
+    "image": "India_631692_S1Hand.tif",
+    "name": "India_631692_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_631692_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_631692_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "c19c18fd21488a9d8f57bf1ce1cb987cfd6cf2125c5e5cb0ca46b397939e6fbd"
+  },
+  {
+    "split": "test",
+    "image": "India_399883_S1Hand.tif",
+    "name": "India_399883_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/India_399883_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/India_399883_S1OtsuLabelHand.tif",
+    "bytes": 6296,
+    "sha256": "0e8861fbd25e1e1cdd69972562569bc765404aa65889bf1e9317d4f6209e63bb"
+  },
+  {
+    "split": "test",
+    "image": "Mekong_333434_S1Hand.tif",
+    "name": "Mekong_333434_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Mekong_333434_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Mekong_333434_S1OtsuLabelHand.tif",
+    "bytes": 1319,
+    "sha256": "05d89c2fb6719bda5dc45692d463f1879f1618ffcd9bd69888cfc83e992f9b05"
+  },
+  {
+    "split": "test",
+    "image": "Mekong_45934_S1Hand.tif",
+    "name": "Mekong_45934_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Mekong_45934_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Mekong_45934_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "a8b93b15127ead1b920ea7147cdeee5d339e52607070bf8ebb89bae96aee40c4"
+  },
+  {
+    "split": "test",
+    "image": "Mekong_1443339_S1Hand.tif",
+    "name": "Mekong_1443339_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Mekong_1443339_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Mekong_1443339_S1OtsuLabelHand.tif",
+    "bytes": 8820,
+    "sha256": "fbd6102930a0eb2155593ff8246588ce43f77b0e4cd0543c254d682f0a97b6d7"
+  },
+  {
+    "split": "test",
+    "image": "Mekong_382276_S1Hand.tif",
+    "name": "Mekong_382276_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Mekong_382276_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Mekong_382276_S1OtsuLabelHand.tif",
+    "bytes": 1889,
+    "sha256": "1e754bffe6e1f730703cdd5735015e27e4a684edf4a680ad281647aeaeb4da66"
+  },
+  {
+    "split": "test",
+    "image": "Mekong_254910_S1Hand.tif",
+    "name": "Mekong_254910_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Mekong_254910_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Mekong_254910_S1OtsuLabelHand.tif",
+    "bytes": 1972,
+    "sha256": "c42b96d73bf24afff3835176ece06a059c117565b6576f12f5801221e624df41"
+  },
+  {
+    "split": "test",
+    "image": "Mekong_424793_S1Hand.tif",
+    "name": "Mekong_424793_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Mekong_424793_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Mekong_424793_S1OtsuLabelHand.tif",
+    "bytes": 1397,
+    "sha256": "cac586118eb3d3a321b5996ca0484f48e123a1cce1392bdc95365518eeab8091"
+  },
+  {
+    "split": "test",
+    "image": "Nigeria_417184_S1Hand.tif",
+    "name": "Nigeria_417184_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Nigeria_417184_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Nigeria_417184_S1OtsuLabelHand.tif",
+    "bytes": 6367,
+    "sha256": "5f5d053784ac6d13fdbf477f348dac725044bef99e1320fb35b1e4354173480b"
+  },
+  {
+    "split": "test",
+    "image": "Nigeria_225131_S1Hand.tif",
+    "name": "Nigeria_225131_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Nigeria_225131_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Nigeria_225131_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "dfc3064ae580ca2f8581a873a0cb9393ff41d8cfec8f0534370be13ae7f423ea"
+  },
+  {
+    "split": "test",
+    "image": "Nigeria_812045_S1Hand.tif",
+    "name": "Nigeria_812045_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Nigeria_812045_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Nigeria_812045_S1OtsuLabelHand.tif",
+    "bytes": 7765,
+    "sha256": "21a630a8f01ce2bc5491d63601c4a63bf3e7be848d85694fbe8f9f67273d8d13"
+  },
+  {
+    "split": "test",
+    "image": "Nigeria_22088_S1Hand.tif",
+    "name": "Nigeria_22088_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Nigeria_22088_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Nigeria_22088_S1OtsuLabelHand.tif",
+    "bytes": 1983,
+    "sha256": "3c447c6a92c3d6082f98c187adde84f8c8942be2ccc6914ec72f032311c7e9b2"
+  },
+  {
+    "split": "test",
+    "image": "Pakistan_849790_S1Hand.tif",
+    "name": "Pakistan_849790_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Pakistan_849790_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Pakistan_849790_S1OtsuLabelHand.tif",
+    "bytes": 10355,
+    "sha256": "1fcc2d177349690669b5a7ee9b35c67eb41d0684ddc00fceaef7882b8e639c2d"
+  },
+  {
+    "split": "test",
+    "image": "Pakistan_664885_S1Hand.tif",
+    "name": "Pakistan_664885_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Pakistan_664885_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Pakistan_664885_S1OtsuLabelHand.tif",
+    "bytes": 10760,
+    "sha256": "65cd90cd5ce74584d60391b91c56bb1f02597b749be2964a78f25b3e8a3b89ea"
+  },
+  {
+    "split": "test",
+    "image": "Pakistan_694942_S1Hand.tif",
+    "name": "Pakistan_694942_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Pakistan_694942_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Pakistan_694942_S1OtsuLabelHand.tif",
+    "bytes": 10603,
+    "sha256": "a6c9d1e1f60e7f644b94487184bfad3ad1ad01e2678de4966db186713638e317"
+  },
+  {
+    "split": "test",
+    "image": "Pakistan_70625_S1Hand.tif",
+    "name": "Pakistan_70625_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Pakistan_70625_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Pakistan_70625_S1OtsuLabelHand.tif",
+    "bytes": 11039,
+    "sha256": "81a7bc6a6b6a1801eb7a3a52198d641ecceb05e91a61d94207f2158b2a9c2849"
+  },
+  {
+    "split": "test",
+    "image": "Pakistan_528249_S1Hand.tif",
+    "name": "Pakistan_528249_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Pakistan_528249_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Pakistan_528249_S1OtsuLabelHand.tif",
+    "bytes": 6593,
+    "sha256": "f0a6c5794fc092bb2582a35ff5c66355120cc0baf3a575a85bd1825cbd3e88ed"
+  },
+  {
+    "split": "test",
+    "image": "Pakistan_167553_S1Hand.tif",
+    "name": "Pakistan_167553_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Pakistan_167553_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Pakistan_167553_S1OtsuLabelHand.tif",
+    "bytes": 13604,
+    "sha256": "eaa5e14fa1d0738c3711b4a64174455830352274c8a69996069ebbdb1e8f95af"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_913449_S1Hand.tif",
+    "name": "Paraguay_913449_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_913449_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_913449_S1OtsuLabelHand.tif",
+    "bytes": 3817,
+    "sha256": "9ed0805ab43596492fc3b6c741c330cd7a427acd34afe81fe8a77466ca64d6a7"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_280900_S1Hand.tif",
+    "name": "Paraguay_280900_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_280900_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_280900_S1OtsuLabelHand.tif",
+    "bytes": 3870,
+    "sha256": "2f5b29efed18afd94d12d07f9debc6203c73812589b1a87a8d73bc4d4fee44a3"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_790830_S1Hand.tif",
+    "name": "Paraguay_790830_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_790830_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_790830_S1OtsuLabelHand.tif",
+    "bytes": 3335,
+    "sha256": "a296e0d7ce66caa5bbc2cca83b10785187bfa9bfbf28894723846e7c656b209f"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_232281_S1Hand.tif",
+    "name": "Paraguay_232281_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_232281_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_232281_S1OtsuLabelHand.tif",
+    "bytes": 5608,
+    "sha256": "67a101aa751ca3955df5a21ac58fa3a1208297379cf04b23e7877e03b84f5a28"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_271769_S1Hand.tif",
+    "name": "Paraguay_271769_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_271769_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_271769_S1OtsuLabelHand.tif",
+    "bytes": 6474,
+    "sha256": "47dbbd8947cbf2adcc2bbd2199fbd54119333684d138746cb51ab4fe74e9952f"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_40936_S1Hand.tif",
+    "name": "Paraguay_40936_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_40936_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_40936_S1OtsuLabelHand.tif",
+    "bytes": 6319,
+    "sha256": "e7e32eac7910ea4684b68ddae2e989df3df860148b268e8d3e9a9b1ceab3cb17"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_1029191_S1Hand.tif",
+    "name": "Paraguay_1029191_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_1029191_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_1029191_S1OtsuLabelHand.tif",
+    "bytes": 4813,
+    "sha256": "3751024f67ee2b2729ed5abe63511297f4b346d45b4f0e37974b562f14093bff"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_59731_S1Hand.tif",
+    "name": "Paraguay_59731_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_59731_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_59731_S1OtsuLabelHand.tif",
+    "bytes": 1795,
+    "sha256": "61ffc6f81a1b177da87957caa4bb389005af5672a2174545b134fa35b56a0aba"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_683296_S1Hand.tif",
+    "name": "Paraguay_683296_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_683296_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_683296_S1OtsuLabelHand.tif",
+    "bytes": 1679,
+    "sha256": "e21d0376686b939b723eef28e55af01ef3cd72d8c863f028f205e56d217232de"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_34417_S1Hand.tif",
+    "name": "Paraguay_34417_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_34417_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_34417_S1OtsuLabelHand.tif",
+    "bytes": 1099,
+    "sha256": "a8a4556fd76d2a3b21731d87aee2d0ac1ffb0e0f812cfa76e8c5fdb8e0387d32"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_868895_S1Hand.tif",
+    "name": "Paraguay_868895_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_868895_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_868895_S1OtsuLabelHand.tif",
+    "bytes": 5134,
+    "sha256": "1b72cdcd655f39d6a3da458e2485e1dfaf9a44002bc01e1c6b49a288563c9e8c"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_511199_S1Hand.tif",
+    "name": "Paraguay_511199_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_511199_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_511199_S1OtsuLabelHand.tif",
+    "bytes": 3450,
+    "sha256": "4cbef5baf1e7bee20b5dd4ad33e4dc3c691d1580fb29cce3bc43ba6bd6184f8f"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_80102_S1Hand.tif",
+    "name": "Paraguay_80102_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_80102_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_80102_S1OtsuLabelHand.tif",
+    "bytes": 1254,
+    "sha256": "cdf11ab10332e069f09139c6ba5311eff69db248cee84223269aa5f86c810c40"
+  },
+  {
+    "split": "test",
+    "image": "Paraguay_651904_S1Hand.tif",
+    "name": "Paraguay_651904_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Paraguay_651904_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Paraguay_651904_S1OtsuLabelHand.tif",
+    "bytes": 4772,
+    "sha256": "c7f39e996891605794bac8f95299c35b1f9114b347666e5df9496185c3a91f67"
+  },
+  {
+    "split": "test",
+    "image": "Somalia_699062_S1Hand.tif",
+    "name": "Somalia_699062_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Somalia_699062_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Somalia_699062_S1OtsuLabelHand.tif",
+    "bytes": 3645,
+    "sha256": "a29169e841c9105243e5d896e22412cdc1f00fafd4ecc34edc85489092292186"
+  },
+  {
+    "split": "test",
+    "image": "Somalia_60129_S1Hand.tif",
+    "name": "Somalia_60129_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Somalia_60129_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Somalia_60129_S1OtsuLabelHand.tif",
+    "bytes": 6519,
+    "sha256": "27776397eb71b7149b3f6eae7d56fd33f4e6d343b87e39e2b063f4d05f1a401b"
+  },
+  {
+    "split": "test",
+    "image": "Somalia_685158_S1Hand.tif",
+    "name": "Somalia_685158_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Somalia_685158_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Somalia_685158_S1OtsuLabelHand.tif",
+    "bytes": 6273,
+    "sha256": "029142d70ab30c3baa2f114028ea19506c3f823eb6b28618cfc1f01506f58220"
+  },
+  {
+    "split": "test",
+    "image": "Somalia_166342_S1Hand.tif",
+    "name": "Somalia_166342_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Somalia_166342_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Somalia_166342_S1OtsuLabelHand.tif",
+    "bytes": 4145,
+    "sha256": "f99a2acde8e5f6615ac1d6c0ee249e06c5a68e4d1855ddd3b70413ff2eeee1b5"
+  },
+  {
+    "split": "test",
+    "image": "Somalia_94102_S1Hand.tif",
+    "name": "Somalia_94102_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Somalia_94102_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Somalia_94102_S1OtsuLabelHand.tif",
+    "bytes": 5325,
+    "sha256": "e3176eb6740a33f267e8a76dc2054d84435514d1acb7ca02a5f9928ad0d66df9"
+  },
+  {
+    "split": "test",
+    "image": "Somalia_322855_S1Hand.tif",
+    "name": "Somalia_322855_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Somalia_322855_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Somalia_322855_S1OtsuLabelHand.tif",
+    "bytes": 5683,
+    "sha256": "14a393ea20425918e763788adfc6961e7fcff28271021b274afa7cdff84d4f58"
+  },
+  {
+    "split": "test",
+    "image": "Spain_6860600_S1Hand.tif",
+    "name": "Spain_6860600_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Spain_6860600_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Spain_6860600_S1OtsuLabelHand.tif",
+    "bytes": 1133,
+    "sha256": "a4bfe193b288172a8f03e3eec7fc8bc4629a53b1c206c7ceec8a05cd49b8d300"
+  },
+  {
+    "split": "test",
+    "image": "Spain_7558720_S1Hand.tif",
+    "name": "Spain_7558720_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Spain_7558720_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Spain_7558720_S1OtsuLabelHand.tif",
+    "bytes": 1480,
+    "sha256": "c9ac6a190db796e75ffd543d81679f528b77494fdb0dc3a25a9bed7ff9f71978"
+  },
+  {
+    "split": "test",
+    "image": "Spain_5650136_S1Hand.tif",
+    "name": "Spain_5650136_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Spain_5650136_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Spain_5650136_S1OtsuLabelHand.tif",
+    "bytes": 5738,
+    "sha256": "fe5af5c9a260c782e48b36cc2e45dde511f35773c84ab5b5ac1abe99ad23ee07"
+  },
+  {
+    "split": "test",
+    "image": "Spain_7370579_S1Hand.tif",
+    "name": "Spain_7370579_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Spain_7370579_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Spain_7370579_S1OtsuLabelHand.tif",
+    "bytes": 6089,
+    "sha256": "ccd678e6bd9dfa481eb1b091a41f1d9b08747a90a018ec30f2a1fdf6c227f4c6"
+  },
+  {
+    "split": "test",
+    "image": "Spain_6095801_S1Hand.tif",
+    "name": "Spain_6095801_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Spain_6095801_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Spain_6095801_S1OtsuLabelHand.tif",
+    "bytes": 3041,
+    "sha256": "888afaba5774027e4ec3c9357eda2b72b04f05702afe2bfbfb13cf93c73fd61b"
+  },
+  {
+    "split": "test",
+    "image": "Spain_7387658_S1Hand.tif",
+    "name": "Spain_7387658_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Spain_7387658_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Spain_7387658_S1OtsuLabelHand.tif",
+    "bytes": 10590,
+    "sha256": "05d72c13e5c78b085036726cfca08f1601c0c7e3398bbbe0e421512ad01f5335"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_117737_S1Hand.tif",
+    "name": "Sri-Lanka_117737_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_117737_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_117737_S1OtsuLabelHand.tif",
+    "bytes": 4741,
+    "sha256": "5509f93d53a9823502cd64cd8baab61ef016acb042d259fe72561e1763b695b6"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_1049830_S1Hand.tif",
+    "name": "Sri-Lanka_1049830_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_1049830_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_1049830_S1OtsuLabelHand.tif",
+    "bytes": 2336,
+    "sha256": "3c0affd32b0dc647cc77cc3a535c17dff28a9e2eb77f5e05a3b171e72848aff8"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_534068_S1Hand.tif",
+    "name": "Sri-Lanka_534068_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_534068_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_534068_S1OtsuLabelHand.tif",
+    "bytes": 1686,
+    "sha256": "2ec938b2b62eb8f3dea8e8090b514577b1abd905c9a7e8912757968ff57c0251"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_922192_S1Hand.tif",
+    "name": "Sri-Lanka_922192_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_922192_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_922192_S1OtsuLabelHand.tif",
+    "bytes": 1688,
+    "sha256": "1c14f25e3db83db90583d9341948594ad9a033f6389b5ca19a8462971f95ba2a"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_377277_S1Hand.tif",
+    "name": "Sri-Lanka_377277_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_377277_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_377277_S1OtsuLabelHand.tif",
+    "bytes": 2275,
+    "sha256": "5169b00e4e7af707169f49b38fff6c9fa40300f60d28d35522ef4cd4eee6446d"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_649970_S1Hand.tif",
+    "name": "Sri-Lanka_649970_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_649970_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_649970_S1OtsuLabelHand.tif",
+    "bytes": 2409,
+    "sha256": "d7073651b376342266c858e7d97d68bc01ba873b6bbca3f4476ac438374e3498"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_450918_S1Hand.tif",
+    "name": "Sri-Lanka_450918_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_450918_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_450918_S1OtsuLabelHand.tif",
+    "bytes": 2332,
+    "sha256": "e00e97eed7aff7b0a77c8b1dbea64b366c3d3e1b9258a5341d3f5ea40f030d0b"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_849649_S1Hand.tif",
+    "name": "Sri-Lanka_849649_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_849649_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_849649_S1OtsuLabelHand.tif",
+    "bytes": 1302,
+    "sha256": "ced364280cf7ca1677080c05eabd3377dad494a59b264bcbecb0a2a754ff11cd"
+  },
+  {
+    "split": "test",
+    "image": "Sri-Lanka_713926_S1Hand.tif",
+    "name": "Sri-Lanka_713926_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Sri-Lanka_713926_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Sri-Lanka_713926_S1OtsuLabelHand.tif",
+    "bytes": 5372,
+    "sha256": "e7ee063667fcbd87561dc774dd89418d259a6736cfd7e40a7a7c6d59c684f8a7"
+  },
+  {
+    "split": "test",
+    "image": "USA_905409_S1Hand.tif",
+    "name": "USA_905409_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_905409_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_905409_S1OtsuLabelHand.tif",
+    "bytes": 3281,
+    "sha256": "9717dc27e7d613492f8aa9c19b2fb3bee833edafbd63d4063e4705f8bf08aa57"
+  },
+  {
+    "split": "test",
+    "image": "USA_430764_S1Hand.tif",
+    "name": "USA_430764_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_430764_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_430764_S1OtsuLabelHand.tif",
+    "bytes": 4074,
+    "sha256": "82d9fb41a11196a3948eed7c8e66bef9e954f082964deb5bcb65d6f303e5d613"
+  },
+  {
+    "split": "test",
+    "image": "USA_350244_S1Hand.tif",
+    "name": "USA_350244_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_350244_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_350244_S1OtsuLabelHand.tif",
+    "bytes": 1453,
+    "sha256": "62bb761a93c79bf1de079e22f2980b9918303ba1eb24a299285b8bca9e14d88f"
+  },
+  {
+    "split": "test",
+    "image": "USA_527077_S1Hand.tif",
+    "name": "USA_527077_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_527077_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_527077_S1OtsuLabelHand.tif",
+    "bytes": 3526,
+    "sha256": "0308bc79695c938dd3c42d6f8a1a24c5478674e836a63a58fb290925a7c892b6"
+  },
+  {
+    "split": "test",
+    "image": "USA_933610_S1Hand.tif",
+    "name": "USA_933610_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_933610_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_933610_S1OtsuLabelHand.tif",
+    "bytes": 1882,
+    "sha256": "4b95d43c0ab43f49526e33cb591911159f716a5c7195764d45ac682ee24018c1"
+  },
+  {
+    "split": "test",
+    "image": "USA_66511_S1Hand.tif",
+    "name": "USA_66511_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_66511_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_66511_S1OtsuLabelHand.tif",
+    "bytes": 1196,
+    "sha256": "7b906f388eaa3f936c025beb7642c1fd50d529e812491aa0563b7c6affca9b8f"
+  },
+  {
+    "split": "test",
+    "image": "USA_519181_S1Hand.tif",
+    "name": "USA_519181_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_519181_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_519181_S1OtsuLabelHand.tif",
+    "bytes": 1937,
+    "sha256": "773200a2fc51f43cbfdded33ac1f9ec1369bb68861407cd43a1b81561c2d952a"
+  },
+  {
+    "split": "test",
+    "image": "USA_778194_S1Hand.tif",
+    "name": "USA_778194_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_778194_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_778194_S1OtsuLabelHand.tif",
+    "bytes": 3328,
+    "sha256": "83ba59040aa5ad434310148fcbdd058e141262fd8acf42db752e60cba8688dfe"
+  },
+  {
+    "split": "test",
+    "image": "USA_67102_S1Hand.tif",
+    "name": "USA_67102_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_67102_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_67102_S1OtsuLabelHand.tif",
+    "bytes": 2782,
+    "sha256": "8282863573bf13a57a32873ab95c5db0304110e2c55df6a334bea4f344ea5eac"
+  },
+  {
+    "split": "test",
+    "image": "USA_1049586_S1Hand.tif",
+    "name": "USA_1049586_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_1049586_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_1049586_S1OtsuLabelHand.tif",
+    "bytes": 1405,
+    "sha256": "0ee8ab9470a0f1b7af5c88972f730afd76fdc6e2b64f54c9d4ca98484988bc73"
+  },
+  {
+    "split": "test",
+    "image": "USA_595451_S1Hand.tif",
+    "name": "USA_595451_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_595451_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_595451_S1OtsuLabelHand.tif",
+    "bytes": 4644,
+    "sha256": "08bd631f5ac2305404811973348dda57a70ebddd4c2650b8afb274c341869c27"
+  },
+  {
+    "split": "test",
+    "image": "USA_670826_S1Hand.tif",
+    "name": "USA_670826_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_670826_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_670826_S1OtsuLabelHand.tif",
+    "bytes": 1253,
+    "sha256": "57119558ac18d737c4a7584ac3b50797700731082ab410062ccad768628c2f41"
+  },
+  {
+    "split": "test",
+    "image": "USA_504150_S1Hand.tif",
+    "name": "USA_504150_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_504150_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_504150_S1OtsuLabelHand.tif",
+    "bytes": 2633,
+    "sha256": "c845d2ea8cc26ac5c39327716d656f9b342b2d3431444248bb749705e746b14f"
+  },
+  {
+    "split": "test",
+    "image": "USA_758178_S1Hand.tif",
+    "name": "USA_758178_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/USA_758178_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/USA_758178_S1OtsuLabelHand.tif",
+    "bytes": 2077,
+    "sha256": "ec3a839cb2d5fc71258861012e5a4674c613f6e2085ede10a6eeb0c4e54c9065"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_103757_S1Hand.tif",
+    "name": "Bolivia_103757_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_103757_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_103757_S1OtsuLabelHand.tif",
+    "bytes": 4741,
+    "sha256": "dbac4a09ded6cce55eb05441b9ea212cad6ad33297c915f7c5c1730e9c36a37f"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_129334_S1Hand.tif",
+    "name": "Bolivia_129334_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_129334_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_129334_S1OtsuLabelHand.tif",
+    "bytes": 6929,
+    "sha256": "449c5f0ab347ed3c8aaa2c4170ec799603b43a356626bad7ba753926878d38ed"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_195474_S1Hand.tif",
+    "name": "Bolivia_195474_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_195474_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_195474_S1OtsuLabelHand.tif",
+    "bytes": 1274,
+    "sha256": "a86daf3bf911a77711b96dfdb3558c6bf28bc6c5c86f648cf851f704b9765c19"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_23014_S1Hand.tif",
+    "name": "Bolivia_23014_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_23014_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_23014_S1OtsuLabelHand.tif",
+    "bytes": 2992,
+    "sha256": "640432a0ef13bc821c180f878d2526906f53bd5ab6fac293257fd0522c2dd26b"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_233925_S1Hand.tif",
+    "name": "Bolivia_233925_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_233925_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_233925_S1OtsuLabelHand.tif",
+    "bytes": 2290,
+    "sha256": "07265e51fd77ca7e852c4548bb3fca735a6e9b728c0c3bbc80e7b8ec5bfcb797"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_242570_S1Hand.tif",
+    "name": "Bolivia_242570_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_242570_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_242570_S1OtsuLabelHand.tif",
+    "bytes": 7760,
+    "sha256": "04cc4e9e2fb06539a5640367f439f9a59faad29829ebc5ce5ee0c161be6b7e0b"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_290290_S1Hand.tif",
+    "name": "Bolivia_290290_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_290290_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_290290_S1OtsuLabelHand.tif",
+    "bytes": 3953,
+    "sha256": "3576e294fff8e894e0a86bcf7a79984a55ae672df8a78dca7224d97c1c899e21"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_294583_S1Hand.tif",
+    "name": "Bolivia_294583_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_294583_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_294583_S1OtsuLabelHand.tif",
+    "bytes": 4094,
+    "sha256": "a788e94b48281ba003bcd5aa24f95e88669543596885b3a2cfabb76886bdad45"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_312675_S1Hand.tif",
+    "name": "Bolivia_312675_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_312675_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_312675_S1OtsuLabelHand.tif",
+    "bytes": 3704,
+    "sha256": "84022a5b191235eab4b5f5eae9ec338f9242805c2980e5b75377ed2fcd9e9982"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_314919_S1Hand.tif",
+    "name": "Bolivia_314919_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_314919_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_314919_S1OtsuLabelHand.tif",
+    "bytes": 6069,
+    "sha256": "b2e92fad1f13535347cc701ba9a8a9c37084b3972555bce75d9519e66ca951e6"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_360519_S1Hand.tif",
+    "name": "Bolivia_360519_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_360519_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_360519_S1OtsuLabelHand.tif",
+    "bytes": 1930,
+    "sha256": "aa0b491a24844a108015ab8ea82f82c285d184506d734ba4d37042d7addd8291"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_379434_S1Hand.tif",
+    "name": "Bolivia_379434_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_379434_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_379434_S1OtsuLabelHand.tif",
+    "bytes": 1899,
+    "sha256": "3a743661ed3ad96d5dc06b740de7e5ca6a6fd941d7ac1d36a5aa1336f577d7d5"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_432776_S1Hand.tif",
+    "name": "Bolivia_432776_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_432776_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_432776_S1OtsuLabelHand.tif",
+    "bytes": 9650,
+    "sha256": "5cf4d39032052e46165c60c5ee3e4d2142d838650b53d31f8f147e3fccaba7d7"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_60373_S1Hand.tif",
+    "name": "Bolivia_60373_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_60373_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_60373_S1OtsuLabelHand.tif",
+    "bytes": 3785,
+    "sha256": "6c862f39e9808f8553f911cfcaedd8cac5c4ffbf040222fd9d247e344f2047ad"
+  },
+  {
+    "split": "bolivia",
+    "image": "Bolivia_76104_S1Hand.tif",
+    "name": "Bolivia_76104_S1OtsuLabelHand.tif",
+    "relative_path": "data/S1OtsuLabelHand/Bolivia_76104_S1OtsuLabelHand.tif",
+    "url": "https://storage.googleapis.com/sen1floods11/v1.1/data/flood_events/HandLabeled/S1OtsuLabelHand/Bolivia_76104_S1OtsuLabelHand.tif",
+    "bytes": 1176,
+    "sha256": "830689e48fc96080ba711475c1bd8e392e81eb032a99a4354b2ad5d5ff585410"
+  }
+]

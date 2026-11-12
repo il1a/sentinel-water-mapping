@@ -1,0 +1,5 @@
+-r requirements.txt
+# Optional Python bindings; a compatible NVIDIA driver and CUDA runtime/toolkit
+# must also be installed and discoverable. This file does not install those.
+numba==0.68.0
+numba-cuda==0.30.4

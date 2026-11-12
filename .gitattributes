@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+# Preserve the exact bytes of the upstream split files.
+manifests/splits/*.csv -text

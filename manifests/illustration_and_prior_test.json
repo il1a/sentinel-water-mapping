@@ -1,0 +1,61 @@
+{
+  "description": "Three fixed training examples for illustration/timing, and the ten test chips inspected in the October 2026 pilot. These identities are not a new train/test split.",
+  "selected": {
+    "train": [
+      [
+        "Ghana_103272_S1Hand.tif",
+        "Ghana_103272_LabelHand.tif"
+      ],
+      [
+        "India_285297_S1Hand.tif",
+        "India_285297_LabelHand.tif"
+      ],
+      [
+        "USA_994009_S1Hand.tif",
+        "USA_994009_LabelHand.tif"
+      ]
+    ],
+    "test": [
+      [
+        "Ghana_1078550_S1Hand.tif",
+        "Ghana_1078550_LabelHand.tif"
+      ],
+      [
+        "India_1018327_S1Hand.tif",
+        "India_1018327_LabelHand.tif"
+      ],
+      [
+        "Mekong_1443339_S1Hand.tif",
+        "Mekong_1443339_LabelHand.tif"
+      ],
+      [
+        "Nigeria_22088_S1Hand.tif",
+        "Nigeria_22088_LabelHand.tif"
+      ],
+      [
+        "Pakistan_167553_S1Hand.tif",
+        "Pakistan_167553_LabelHand.tif"
+      ],
+      [
+        "Paraguay_1029191_S1Hand.tif",
+        "Paraguay_1029191_LabelHand.tif"
+      ],
+      [
+        "Somalia_166342_S1Hand.tif",
+        "Somalia_166342_LabelHand.tif"
+      ],
+      [
+        "Spain_5650136_S1Hand.tif",
+        "Spain_5650136_LabelHand.tif"
+      ],
+      [
+        "Sri-Lanka_1049830_S1Hand.tif",
+        "Sri-Lanka_1049830_LabelHand.tif"
+      ],
+      [
+        "USA_1049586_S1Hand.tif",
+        "USA_1049586_LabelHand.tif"
+      ]
+    ]
+  }
+}
