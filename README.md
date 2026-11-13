@@ -181,6 +181,10 @@ or freedom from vulnerabilities. Review updates before running untrusted files.
 the notebook content; it regenerates the unexecuted notebook deterministically.
 Do not put credentials in notebooks or commit local output folders.
 
+## Extending the project with coding agents
+
+[AGENTS.md](AGENTS.md) contains project-specific instructions for AI coding agents and anyone extending this research with them. It records the scientific assumptions, evaluation rules, testing requirements and data-handling safeguards that changes should preserve. Read it before making changes or give it to your coding assistant as project context. It is contributor guidance, not a dependency needed to run the experiments.
+
 ## Attribution
 
 Data and released maps: [Cloud to Street's Sen1Floods11](https://github.com/cloudtostreet/Sen1Floods11).
