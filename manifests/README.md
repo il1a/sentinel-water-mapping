@@ -23,15 +23,22 @@ make a failed download pass: establish why upstream bytes changed first.
 ## Data rights
 
 The upstream README requests citation but does not itself provide a complete
-reuse/redistribution grant. During preparation, its root `LICENSE` path was not
-available. This does not prove that no applicable terms exist elsewhere.
+reuse/redistribution grant. As checked on 13 November 2026, the upstream
+repository has no root license file,
+its [missing-license issue](https://github.com/cloudtostreet/Sen1Floods11/issues/18)
+remains unresolved, and both the official
+[source collection](https://storage.googleapis.com/sen1floods11/v1.1/catalog/sen1floods11_hand_labeled_source/collection.json)
+and [hand-label collection](https://storage.googleapis.com/sen1floods11/v1.1/catalog/sen1floods11_hand_labeled_label/collection.json)
+declare `license: proprietary`. These declarations do not establish terms for
+all other assets; public availability alone is not a redistribution license.
 Confirm the current terms for imagery, hand labels, released maps and copied
 split metadata with the authoritative provider before redistribution or a use
 that requires permission. This project does not assign a license to their work.
 
 This repository contains file identities, source links and hashes, not raw dataset
 files or embedded dataset preview images. Dataset rights are separate from any
-license covering this project’s code.
+license covering this project’s code. The project's [MIT License](../LICENSE)
+does not cover these upstream materials, including the copied split CSVs.
 
 Please cite Bonafilia, D., Tellman, B., Anderson, T. and Issenberg, E. (2020),
 *Sen1Floods11: a georeferenced dataset to train and test deep learning flood

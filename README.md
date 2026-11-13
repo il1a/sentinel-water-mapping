@@ -191,3 +191,14 @@ Sentinel-1*, [CVPR Workshops](https://openaccess.thecvf.com/content_CVPRW_2020/h
 Dataset binaries are not bundled. See [input provenance and rights](manifests/README.md).
 Implementation and checking were AI-assisted; the author remains responsible
 for reviewing the work and any academic use.
+
+## License
+
+The original code and accompanying documentation in this project are licensed
+under the [MIT License](LICENSE), copyright 2026 Ilia Sokolovskiy.
+
+This grant does **not** cover Sen1Floods11 imagery, labels, released prediction
+maps or upstream split CSVs in `manifests/splits/`. Those third-party materials
+retain their own rights and are not relicensed by this project. Dependencies
+also retain their respective licenses. See [input provenance and data rights](manifests/README.md)
+before redistributing dataset material.
